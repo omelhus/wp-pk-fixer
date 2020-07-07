@@ -6,7 +6,7 @@
   * Version: 1
   * Author: Ole Melhus <ole@on-it.no>
   * Author URI: https://zpider.io
-  * License: MIT
+  * License: Apache2
   * Network: true
 */
 

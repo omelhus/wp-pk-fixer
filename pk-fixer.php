@@ -3,7 +3,7 @@
   * Plugin Name:  Primary Key Fixer
   * Plugin URI: https://github.com/omelhus/wp-pk-fixer/
   * Description: Some plugins are missing PRIMARY KEY when creating tables and this causes problems using managed databases. This plugin will use the information from UNIQUE KEY and try to use that.
-  * Version: 1
+  * Version: 1.2
   * Author: Ole Melhus <ole@on-it.no>
   * Author URI: https://zpider.io
   * License: Apache2

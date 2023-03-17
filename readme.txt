@@ -2,7 +2,7 @@
 Contributors: omelhus
 Tags: primary key, digital ocean, managed database
 Requires at least: 5.1
-Tested up to: 5.8
+Tested up to: 6.1.1
 Requires PHP: 7.2
 Stable tag: 4.3
 License: Apache2
